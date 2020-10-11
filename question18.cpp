@@ -1,5 +1,5 @@
 
-
+//Reverse a sentence using recursion.
 #include <iostream>
 using namespace std;
 
@@ -26,3 +26,10 @@ void reverse(const string& str)
        reverse(str.substr(0, numOfChars - 1));
     }
 }
+
+
+/*Output
+
+Enter a sentence: margorp emosewa
+awesome program
+*/
