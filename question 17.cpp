@@ -6,7 +6,7 @@ using namespace std;
 struct student
 {
 
-//declare the  datatypes
+//declare the  datatypes properly
 };
 
 int main() 
