@@ -13,7 +13,7 @@ int main()
     cout << "Enter string s2: ";
     getline (cin, s2);
 
-    result = s1 _______ s2;
+    result = s1 ________ s2;
 
     cout << "Resultant String = "<< result;
 
